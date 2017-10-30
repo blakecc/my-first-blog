@@ -25,7 +25,7 @@ SECRET_KEY = '%1-4fk2m605p3z)&v&xhls6d+n%(ffn(f-+749314c06gpp$ey'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<blakec.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'blakec.pythonanywhere.com']
 
 
 # Application definition
